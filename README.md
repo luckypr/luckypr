@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckypr
-- 👀 I’m interested in Assembly, C and Python programming
-- 🌱 I’m currently learning Web scraping with Python and Linux programming
+- 👀 I’m interested in Assembly and C programming
+- 🌱 I’m currently learning Linux system programming and Data Structures and Algorithms
 - 📫 How to reach me: srecko.pr@gmail.com
 
 <!---
